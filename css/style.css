@@ -1,0 +1,17 @@
+body{
+    height: 100vh;
+    width: 100vw;
+    background: url(../img/mainBcg.jpeg) center center no-repeat ;
+    background-size: cover;
+}
+
+.counter{
+    font-size: 160px;
+    font-weight: 600
+}
+
+.bordered{
+    border: 2px solid white;
+    box-shadow: rgba(0, 0, 0, 0.9) 0px 0.5rem 0.5rem;
+    border-radius: 5px;
+}
